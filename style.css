@@ -1,10 +1,49 @@
-h2{
-    color: aqua;
-    border: 2px;
-    
+*{
+    margin: 0;
+    padding: 0;
+
 }
-p{
-    color: rgb(225, 12, 12);
-    font-size: 2em;
-    
+
+h1{
+    background: url(https://i.pinimg.com/564x/2b/25/a1/2b25a1d52acdb630355f5f7cbfa857f6.jpg);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+text-align: center;
+width: 1300px;
+height: 1200px;
+/* background-attachment:fixed; */
+/* background-repeat: no-repeat; */
+background-size: cover;
+color: rgb(255, 0, 0);
+text-shadow: 10px 10px 20px rgba(13, 0, 254, 0.998);
+
+}
+#dont{
+    background-image: url(https://i.pinimg.com/564x/45/f7/4e/45f74e5201d14e35b90b3d49dd2e6970.jpg);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+text-align-last:center;
+padding: 800px 200px 200px 200px;
+width: 900px;
+height: 1200px;
+background-size: cover;
+color: rgb(255, 0, 21);
+text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.998);
+
+}
+#style{
+    background-image: url(https://i.pinimg.com/564x/49/1d/67/491d6713bf442c7ef9f0692e68b7f023.jpg);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+text-align-last:center;
+padding: 1000px 200px 200px 200px;
+width: 900px;
+height: 1200px;
+background-size: cover;
+color: rgb(255, 0, 21);
+text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.998);
+
+background-img {
+    clip-path: circle(50%);
+  }
 }
